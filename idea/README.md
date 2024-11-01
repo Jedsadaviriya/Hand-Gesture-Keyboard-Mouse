@@ -21,3 +21,4 @@ an example would be touch your pinky with thumb once is for 1
 
 for every touch it changes layer, so touch once it gives 1, touch twice q
 
+![alt text](pic/keyboardLay.png)
