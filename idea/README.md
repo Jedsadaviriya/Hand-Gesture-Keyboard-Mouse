@@ -19,6 +19,8 @@ With the Laptop camera or an external camera. detects contact between two finger
 
 an example would be touch your pinky with thumb once is for 1 
 
-for every touch it changes layer, so touch once it gives 1, touch twice q
+for every touch it changes layer, so touch once it gives **1**, touch twice **q**, touch three times and it's **a**, four times and it's **y**
 
 ![alt text](pic/keyboardLay.png)
+
+this picture is an example layout that i'll use
